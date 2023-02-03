@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 
  
-![덕환's GitHub stats](https://github-readme-stats.vercel.app/api?username=1111-dh&show_icons=true&theme=radical)
+![덕환's GitHub stats](https://github-readme-stats.vercel.app/api?username=1111-dh&show_icons=true&theme=graywhite)
