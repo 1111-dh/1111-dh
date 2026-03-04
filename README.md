@@ -1,6 +1,6 @@
-2023 What The Fuck Goin' On I'm Back <br> Jdeokhwan I'm Back
+Welcome to the show
 =========
-어서오세요!
+또 다시 보여줘야돼
 ---
 SNS
 ---
@@ -10,7 +10,9 @@ SNS
 <br>💪Skills
 --------
 ### Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img 
 
 ### Tools
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
