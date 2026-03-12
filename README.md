@@ -49,6 +49,26 @@
 </div>
 <br><br>
 
+## 🚀 Projects & Contributions
+
+### [사진 앨범 앱] - 창업 동아리 프로젝트 (교내 대회 최우수상 🏆)
+- **Role:** Frontend Developer / UI Designer
+- **Tech Stack:** React Native, Styled-components, AI Tools (Cursor)
+- **Contribution:** - 대용량 이미지 렌더링 최적화 로직 설계 및 구현
+  - AI 도구를 활용한 Edge Case 디버깅 및 방어 코드 작성
+  - 서비스 전체 UI/UX 디자인 시스템 구축
+- **Repository:** [원본 레포지토리 링크 바로가기](링크주소)
+
+---
+
+### [감정일기 앱] - 2025 AI-conic 해커톤 (우수상 🥈)
+- **Role:** Frontend Developer / Lead Designer
+- **Tech Stack:** React Native, AI API Integration
+- **Contribution:** - 캘린더 및 일기 작성 핵심 로직 개발
+  - AI 분석 결과를 시각화하는 대시보드 인터페이스 구현
+  - 프로젝트 기획 및 디자인 총괄
+- **Repository:** [원본 레포지토리 링크 바로가기](링크주소)
+
 ## 🐍 My Contribution Graph
 <div align="center">
   <picture>
