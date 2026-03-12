@@ -57,7 +57,7 @@
 - **Contribution:** - 대용량 이미지 렌더링 최적화 로직 설계 및 구현
   - AI 도구를 활용한 Edge Case 디버깅 및 방어 코드 작성
   - 서비스 전체 UI/UX 디자인 시스템 구축
-- **Repository:** [원본 레포지토리 링크 바로가기](링크주소)
+- **Repository:** [원본 레포지토리 링크 바로가기](https://github.com/dltkddbs7979/PhotoMoA)
 
 ---
 
@@ -67,7 +67,7 @@
 - **Contribution:** - 캘린더 및 일기 작성 핵심 로직 개발
   - AI 분석 결과를 시각화하는 대시보드 인터페이스 구현
   - 프로젝트 기획 및 디자인 총괄
-- **Repository:** [원본 레포지토리 링크 바로가기](링크주소)
+- **Repository:** [원본 레포지토리 링크 바로가기](https://github.com/Y-Jimin/AIconicHackthone_MindMirror)
 
 ## 🐍 My Contribution Graph
 <div align="center">
