@@ -51,7 +51,7 @@
 
 ## 🚀 Projects & Contributions
 
-### [사진 앨범 앱] - 창업 동아리 프로젝트 (교내 대회 최우수상 🏆)
+### [사진 앨범 앱] - 창업 동아리 프로젝트 (2025년도 SW교육원 창업해커톤 경진대회 최우수상 🏆)
 - **Role:** Frontend Developer / UI Designer
 - **Tech Stack:** React Native, Styled-components, AI Tools (Cursor)
 - **Contribution:** - 대용량 이미지 렌더링 최적화 로직 설계 및 구현
