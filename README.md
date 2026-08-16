@@ -5,13 +5,13 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D81DD&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D81DD&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 ### 🔭 About Me
-🌱 **Java Spring Boot**를 주력으로 학습하는 백엔드 개발자입니다.<br>
+🌱 백엔드 개발자<br>
 🎓 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 22학번 재학<br>
 👑 경북대학교 제39대 총동아리연합회 개화 체육분과장 <br>
 
